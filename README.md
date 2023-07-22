@@ -5,4 +5,9 @@
 - [1_deep_ensemble.ipynb](https://github.com/toshi-4886/neural_network/blob/main/uncertainty/1_deep_ensemble.ipynb)  
 deep ensembleによるニューラルネットワークの予測の不確実性算出
 
+- [2_SVI.ipynb](https://github.com/toshi-4886/neural_network/blob/main/uncertainty/2_SVI.ipynb)  
+stochastic variational inference によるニューラルネットワークの予測の不確実性算出
+
+
+
   
