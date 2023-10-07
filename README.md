@@ -11,4 +11,9 @@ stochastic variational inference によるニューラルネットワークの�
 - [3_mc_dropout.ipynb](https://github.com/toshi-4886/neural_network/blob/main/uncertainty/3_mc_dropout.ipynb)  
 Monte Carlo dropout によるニューラルネットワークの予測の不確実性算出
 
+- [4_SGLD.ipynb](https://github.com/toshi-4886/neural_network/blob/main/uncertainty/4_SGLD.ipynb)  
+stochastic gradient Langevin dynamics によるニューラルネットワークの予測の不確実性算出
+
+- [5_deepGP.ipynb](https://github.com/toshi-4886/neural_network/blob/main/uncertainty/5_deepGP.ipynb)  
+deep Gaussian process によるニューラルネットワークの予測の不確実性算出
   
