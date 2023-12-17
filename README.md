@@ -18,6 +18,6 @@ stochastic gradient Langevin dynamics によるニューラルネットワーク
 deep Gaussian process によるニューラルネットワークの予測の不確実性算出
   
 # tabular
-- [1_MLP.ipynb](https://github.com/toshi-4886/neural_network/blob/main/tabular/1_MLP.ipynb)
+- [1_MLP.ipynb](https://github.com/toshi-4886/neural_network/blob/main/tabular/1_MLP.ipynb)  
 全結合ニューラルネットワークによる表形式データの分類
 
