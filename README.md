@@ -21,3 +21,6 @@ deep Gaussian process によるニューラルネットワークの予測の不�
 - [1_MLP.ipynb](https://github.com/toshi-4886/neural_network/blob/main/tabular/1_MLP.ipynb)  
 全結合ニューラルネットワークによる表形式データの分類
 
+- [2_TabNet.ipynb](https://github.com/toshi-4886/neural_network/blob/main/tabular/2_TabNet.ipynb)  
+TabNetによる表形式データの分類
+
