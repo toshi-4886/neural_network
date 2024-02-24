@@ -24,3 +24,6 @@ deep Gaussian process によるニューラルネットワークの予測の不�
 - [2_TabNet.ipynb](https://github.com/toshi-4886/neural_network/blob/main/tabular/2_TabNet.ipynb)  
 TabNetによる表形式データの分類
 
+- [3_FTTransformer.ipynb](https://github.com/toshi-4886/neural_network/blob/main/tabular/3_FTTransformer.ipynb)  
+FT-Transformerによる表形式データの分類
+
